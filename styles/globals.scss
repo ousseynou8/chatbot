@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+$font-family-sans-serif: "Press Start 2P";
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import "../node_modules/nes.css/css/nes.css";
+html, body{
+    background-color: #4759fe;
+}
