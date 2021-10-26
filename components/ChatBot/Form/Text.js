@@ -14,7 +14,7 @@ export const Text = () => <div className="container col-12 col-sm-10 col-md-8 co
                 <textarea id="textarea_field" className="nes-textarea" name='content' placeholder="Votre réponse"></textarea>
             </div>
             <div className="col-2">
-                <button type='submit' className='nes-btn is-primary w-100'>  </button>
+                <button type='submit' className='nes-btn is-primary w-100'> Envoyer </button>
             </div>
         </div>
     </form>
